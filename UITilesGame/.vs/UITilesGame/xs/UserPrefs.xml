@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{CA31248C-1CEA-1DC2-B094-D132A786A57D}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/MainManu.cs">
+    <Files>
+      <File FileName="Assets/MainManu.cs" Line="16" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="UITilesGame" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="MainManu.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="9eac8ff9-405f-4b22-b9ca-474e97853ad6" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
